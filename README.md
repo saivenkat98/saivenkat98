@@ -30,7 +30,7 @@ const Sai Venkat = {
             RESTful, graphQL
         }
         databases: ["sql", "mysql", "mongodb", "postgresql"],
-        misc: [ "AWS", "Git", "Kafka", "springboot" ]
+        misc: [ "AWS", "Git", "Kafka", "Docker", "Springboot" ]
     },
     architecture: ["Progressive web applications", "Single page applications", "component-based architecture],
 
