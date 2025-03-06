@@ -61,7 +61,6 @@ const Sai Venkat = {
 </table>
 
 
-
 ## Stats
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=saivenkat98&show_icons=true&hide_border=true)
