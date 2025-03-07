@@ -14,9 +14,9 @@
 ```javascript
 const Sai Venkat = {
     Education: {
-    Degree: "Master of Science",
-    Major: "Computer Science",
-    University: "University of North Carolina at Charlotte"
+        Degree: "Master of Science",
+        Major: "Computer Science",
+        University: "University of North Carolina at Charlotte"
     }
     askMeAbout: ["Full-stack Development", "Web Development", "Backend Development"],
     technologies: {
