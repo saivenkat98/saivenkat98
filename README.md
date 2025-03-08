@@ -29,12 +29,13 @@ const Sai Venkat = {
         },
         backEnd: {
             js: ["Express", "Node"],
+            java: ["Springboot"]
         },
         api: {
             RESTful, graphQL
         }
         databases: ["sql", "mysql", "mongodb", "postgresql"],
-        misc: [ "AWS", "Git", "Kafka", "Docker", "Springboot" ]
+        misc: [ "AWS", "Git", "Kafka", "Docker" ]
     },
     architecture: ["Progressive web applications", "Single page applications", "component-based architecture],
 
