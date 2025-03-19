@@ -67,6 +67,7 @@ const Sai Venkat = {
 
 
 ## Stats
+![](https://github.com/sw-yx/sw-yx/blob/master/generated/languages.svg)
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=saivenkat98&show_icons=true&hide_border=true)
 
