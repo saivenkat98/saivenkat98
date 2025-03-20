@@ -61,6 +61,10 @@ const Sai Venkat = {
         <span>Javascript</span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/javascript.svg">
       </td>
+      <td width="15%" align="center">
+        <span>Typescript</span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/typescript.svg">
+      </td>
     </tr>
   </tbody>
 </table>
