@@ -80,7 +80,7 @@ const Sai Venkat = {
 ## Portfolio
 
 URL: https://sai-venkat.vercel.app/
-![QR-sai venkat portfolio-ad5f219d](https://github.com/user-attachments/assets/be724bc8-7e69-45da-8de0-b94a5be01dda)
+<img src="https://github.com/user-attachments/assets/be724bc8-7e69-45da-8de0-b94a5be01dda" alt="QR-sai venkat portfolio" width="200"/>
 
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em>Curious minds make the best connections. If you want to talk tech, ideas, or anything interesting, don’t hesitate to say hello! 🌱</em>
