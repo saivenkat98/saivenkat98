@@ -1,4 +1,4 @@
-<h2> Hi, Sai Venkat here <img src="https://github.com/user-attachments/assets/be724bc8-7e69-45da-8de0-b94a5be01dda" alt="QR-sai venkat portfolio" width="30"/> </h2>
+<h2> Hi, Sai Venkat here</h2>
 
 <img align='right' src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=790b7611yp0jiunk7v8tqhv65lyfs6218cr3ywi8tmttpjl5&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="200">
 <p><em>Software Engineer    <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
@@ -19,7 +19,7 @@ const Sai Venkat = {
         University: "University of North Carolina at Charlotte"
     }
     askMeAbout: ["Full-stack Development", "Web Development", "Backend Development"],
-    technologies: {
+    Technologies: {
         programming languages: {
              Java, Python, JavaScript, TypeScript
         }
@@ -37,7 +37,9 @@ const Sai Venkat = {
         databases: ["sql", "mysql", "mongodb", "postgresql"],
         misc: [ "AWS", "Git", "Kafka", "Docker" ]
     },
-    architecture: ["Progressive web applications", "Single page applications", "component-based architecture],
+    Architecture: ["Progressive web applications", "Single page applications", "component-based architecture],
+
+    Portfolio: https://sai-venkat.vercel.app/ ,
 
     Fav Quote: "The only way to do great work is to love what you do."
 };
@@ -80,7 +82,7 @@ const Sai Venkat = {
 ## Portfolio
 
 URL: https://sai-venkat.vercel.app/</br>
-<img src="https://github.com/user-attachments/assets/be724bc8-7e69-45da-8de0-b94a5be01dda" alt="QR-sai venkat portfolio" width="200"/>
+<img src="https://github.com/user-attachments/assets/be724bc8-7e69-45da-8de0-b94a5be01dda" alt="QR-sai venkat portfolio" width="150"/>
 
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em>Curious minds make the best connections. If you want to talk tech, ideas, or anything interesting, don’t hesitate to say hello! 🌱</em>
