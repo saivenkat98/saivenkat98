@@ -85,16 +85,7 @@ const Sai Venkat = {
 
 <img src="https://github.com/user-attachments/assets/be724bc8-7e69-45da-8de0-b94a5be01dda" alt="QR-sai venkat portfolio" width="140"/>
 
-<h2 align="center">🌐 Portfolio</h2>
-
-<p align="center">
-  <a href="https://sai-venkat.vercel.app/">sai-venkat.vercel.app</a>
-</p>
-
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/be724bc8-7e69-45da-8de0-b94a5be01dda" alt="QR Portfolio" width="140"/>
-</p>
-
+##
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em>Curious minds make the best connections. If you want to talk tech, ideas, or anything interesting, don’t hesitate to say hello! 🌱</em>
 
