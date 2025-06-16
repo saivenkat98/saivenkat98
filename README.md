@@ -1,4 +1,4 @@
-<h2> Hi, Sai Venkat here</h2> <img src="https://github.com/user-attachments/assets/be724bc8-7e69-45da-8de0-b94a5be01dda" alt="QR-sai venkat portfolio" width="30"/>
+<h2> Hi, Sai Venkat here <img src="https://github.com/user-attachments/assets/be724bc8-7e69-45da-8de0-b94a5be01dda" alt="QR-sai venkat portfolio" width="30"/> </h2>
 
 <img align='right' src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=790b7611yp0jiunk7v8tqhv65lyfs6218cr3ywi8tmttpjl5&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="200">
 <p><em>Software Engineer    <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
