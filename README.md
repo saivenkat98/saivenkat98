@@ -39,8 +39,6 @@ const Sai Venkat = {
     },
     Architecture: ["Progressive web applications", "Single page applications", "component-based architecture],
 
-    Portfolio: https://sai-venkat.vercel.app/ ,
-
     Fav Quote: "The only way to do great work is to love what you do."
 };
 ```
