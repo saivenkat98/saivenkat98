@@ -79,11 +79,13 @@ const Sai Venkat = {
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=saivenkat98&show_icons=true&hide_border=true)
 
-## 💼 Portfolio
+## 🌐 Portfolio
 
-🔗 [sai-venkat.vercel.app](https://sai-venkat.vercel.app/)
+[![Visit My Portfolio](https://img.shields.io/badge/Click%20to%20Visit-My%20Website-blue?style=for-the-badge&logo=vercel)](https://sai-venkat.vercel.app/)
 
-<img src="https://github.com/user-attachments/assets/be724bc8-7e69-45da-8de0-b94a5be01dda" alt="QR to Portfolio" width="120"/>
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/be724bc8-7e69-45da-8de0-b94a5be01dda" alt="QR-sai venkat portfolio" width="140"/>
+</p>
 
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em>Curious minds make the best connections. If you want to talk tech, ideas, or anything interesting, don’t hesitate to say hello! 🌱</em>
