@@ -83,6 +83,12 @@ const Sai Venkat = {
 
 [![Visit My Portfolio](https://img.shields.io/badge/Click%20to%20Visit-My%20Website-blue?style=for-the-badge&logo=vercel)](https://sai-venkat.vercel.app/)
 
+<img src="https://github.com/user-attachments/assets/be724bc8-7e69-45da-8de0-b94a5be01dda" alt="QR-sai venkat portfolio" width="140"/>
+
+## 🌐 Portfolio
+
+[![Visit My Portfolio](https://img.shields.io/badge/Click%20to%20Visit-My%20Website-blue?style=for-the-badge&logo=vercel)](https://sai-venkat.vercel.app/)
+
 <p align="center">
   <img src="https://github.com/user-attachments/assets/be724bc8-7e69-45da-8de0-b94a5be01dda" alt="QR-sai venkat portfolio" width="140"/>
 </p>
